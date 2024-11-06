@@ -1,6 +1,6 @@
 INSTRUCTIONS:
 1)Install dependencies: 
-pip install -r requirements.txt
+pip install -r Requirements.txt
 2)The physionet dataset can be accessed through:
 https://physionet.org/content/eegmat/1.0.0/
 3)Run the code.
